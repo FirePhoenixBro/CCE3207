@@ -1,1 +1,3 @@
-**/cce3207-venv/
+.vscode
+cce3207-venv
+assignment-data
