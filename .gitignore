@@ -1,3 +1,4 @@
 .vscode
 .venv
-assignment/data
+assignment/model/
+assignment/data/
